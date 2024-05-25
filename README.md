@@ -4,10 +4,10 @@
 
 ## Description
 
-- My motivation for building this application was to create an employee data tracking application for HR called HR-Track-Suite that allows the client to track employee data on their device.
-- This project was built to provide the client with an application to track employee data using their computer and or phone.
-- This solves the problem of not being able to keep relevant employee data stored inside of a database for the company of the client.
-- In this project, I learned that PostgreSQL is a secure and protective language that enables me to concentrate on backend development seamlessly, without affecting the vulnerability of client data.
+- My motivation for building this application was to provide an easy-to-use solution for individuals who have an ecommerce website but struggle to manage the backend.
+- This project was built to support ecommerce website owners who lack the technical expertise or resources to develop and maintain a backend system.
+- This solves the problem of not being able to efficiently manage and operate an ecommerce website without a robust backend infrastructure.
+- In this project, I learned that creating a user-friendly and scalable backend system is crucial for enabling ecommerce website owners to focus on their business without worrying about backend complexities.
 
 ## Table of Contents (Optional)
 
@@ -20,13 +20,13 @@ Here is a table of contents to make it easy for users to locate which section th
 
 ## Installation
 
-You'll need to install GitBash, VS Code, Node.js, NPM inquirer, NPM pg, Express, and PostgreSQL. From here you will need knowledge on how to clone a repo from GitHub over to your device to store it locally. Once its stored locally in your device you can open VSCode. Lastly once VSCode is running open the CLI (Command-Line-Interface), type npm install for the node_modules package, then type npm run start. Once you've done this the website will be deployed locally for testing, debugging, and developing.
+You'll need to install GitBash, VS Code, Node.js, NPM dotenv, NPM pg, NPM sequelize, Express, PostgreSQL, and nodemon (not necessary). From here you will need knowledge on how to clone a repo from GitHub over to your device to store it locally. Once its stored locally on your device you can open VSCode. Lastly once VSCode is running open the CLI (Command-Line-Interface), type npm install for the node_modules packages, and then type npm run start. Once you've done this the website can be deployed locally for testing, debugging, and developing.
 
 ## Usage
 
-The HR Track Suite is convienient for anyone needing something to help securely store employee data. Update your employee data so that it stays up to date easily from within the CLI.
+The Ecom Matrix is convienient for anyone needing a backend service for a website where they only have the front end developed (refactor essential).
 
-- <strong>HR Track Suite Screenshots:</strong>
+- <strong>Ecom Matrix Screenshots:</strong>
 
 - ![Screenshot1](./Develop/images/OpeningMenu.png)
 - ![Screenshot2](./Develop/images/ViewTables.png)
@@ -48,7 +48,7 @@ People who worked on this project were bwater47. You can contact the contributor
 
 ## Features
 
-Secure Employee Data Tracker: Allows the client to add employee data, update, and remove record of what has been added to a table.
+Secure Backend Service: Allows the client to clone the code and use the backend service for an ecommerce website without an existing backend.
 
 ## Contributing
 
@@ -57,21 +57,25 @@ Contributing is allowed if you're in the U of U Coding Bootcamp. Contact us on t
 
 ## Authors and Acknowledgment
 
-Documentation. PostgreSQL. (05/19/24). https://www.postgresql.org/docs/ 
+Sequelize V6. Sequelize. (05/25/24). https://sequelize.org/docs/v6/ 
 
-Routing. Express routing. (05/19/24). https://expressjs.com/en/guide/routing.html#express-router 
+Documentation. PostgreSQL. (05/25/24). https://www.postgresql.org/docs/ 
 
-CLI commands. npm Docs. (05/19/24). https://docs.npmjs.com/cli/v10/commands
+The Collaborative API Development Platform. Insomnia. (05/25/24). https://insomnia.rest/ 
 
-Node.js V22.0.0 documentation. Command-line API | Node.js v22.0.0 Documentation. (05/19/24). https://nodejs.org/api/cli.html
+Routing. Express routing. (05/25/24). https://expressjs.com/en/guide/routing.html#express-router 
 
-MozDevNet. (05/19/24). Resources for developers, by developers. MDN Web Docs. https://developer.mozilla.org/en-US/ 
+CLI commands. npm Docs. (05/25/24). https://docs.npmjs.com/cli/v10/commands
 
-Bootcamp Spot. (05/19/24). https://bootcampspot.com/
+Node.js V22.0.0 documentation. Command-line API | Node.js v22.0.0 Documentation. (05/25/24). https://nodejs.org/api/cli.html
 
-W3Schools Online Web Tutorials. (05/19/24). https://www.w3schools.com/
+MozDevNet. (05/25/24). Resources for developers, by developers. MDN Web Docs. https://developer.mozilla.org/en-US/ 
 
-Chatgpt. ChatGPT. (05/19/24). https://openai.com/chatgpt
+Bootcamp Spot. (05/25/24). https://bootcampspot.com/
+
+W3Schools Online Web Tutorials. (05/25/24). https://www.w3schools.com/
+
+Chatgpt. ChatGPT. (05/25/24). https://openai.com/chatgpt
 
 • Please note: While ChatGPT was utilized to generate dialog content for the README file, it was not involved in the generation of any code, HTML edits, CSS edits, or other assets within the repository apart from this README specifically.
 

@@ -26,11 +26,9 @@ You'll need to install GitBash, VS Code, Node.js, NPM dotenv, NPM pg, NPM sequel
 
 The Ecom Matrix is convienient for anyone needing a backend service for a website where they only have the front end developed (refactor essential).
 
-- <strong>Ecom Matrix Screenshots:</strong>
+- <strong>Ecom Matrix Video</strong>
 
-- ![Screenshot1](./Develop/images/OpeningMenu.png)
-- ![Screenshot2](./Develop/images/ViewTables.png)
-- ![Screenshot3](./Develop/images/AddsUpdates.png)
+- ![https://drive.google.com/file/d/1FDXGBnEouMhy5aU2KyIU_x28RUnRquHx/view?usp=drive_link](https://drive.google.com/file/d/1FDXGBnEouMhy5aU2KyIU_x28RUnRquHx/view?usp=drive_link)
 
 ## Support
 

@@ -28,7 +28,7 @@ The Ecom Matrix is convienient for anyone needing a backend service for a websit
 
 - <strong>Ecom Matrix Video</strong>
 
-- ![https://drive.google.com/file/d/1FDXGBnEouMhy5aU2KyIU_x28RUnRquHx/view?usp=drive_link](https://drive.google.com/file/d/1FDXGBnEouMhy5aU2KyIU_x28RUnRquHx/view?usp=drive_link)
+![Ecom Matrix Video Link](https://drive.google.com/file/d/1FDXGBnEouMhy5aU2KyIU_x28RUnRquHx/view?usp=drive_link)
 
 ## Support
 
